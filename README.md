@@ -1,0 +1,1 @@
+This is an simple emoji game designed using React JS and CSS.
